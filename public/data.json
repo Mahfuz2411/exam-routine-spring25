@@ -1,0 +1,116 @@
+{
+  "courses": [
+    {
+      "semester": "6th Semester",
+      "courseCode": "CSE-413",
+      "courseTitle": "Web Engineering",
+      "date": "Thursday, September 26, 2024",
+      "time": "4:00 PM - 5:30 PM",
+      "room": "413"
+    },
+    {
+      "semester": "6th Semester",
+      "courseCode": "CSE-317",
+      "courseTitle": "Simulation and Modeling",
+      "date": "Sunday, September 29, 2024",
+      "time": "4:00 PM - 5:30 PM",
+      "room": "501"
+    },
+    {
+      "semester": "6th Semester",
+      "courseCode": "CSE-331",
+      "courseTitle": "Operating System and System Programming",
+      "date": "Wednesday, October 02, 2024",
+      "time": "2:00 PM - 3:30 PM",
+      "room": "501"
+    },
+    {
+      "semester": "6th Semester",
+      "courseCode": "CSE-455",
+      "courseTitle": "Machine Learning",
+      "date": "Sunday, October 06, 2024",
+      "time": "4:00 PM - 5:30 PM",
+      "room": "501"
+    },
+    {
+      "semester": "6th Semester",
+      "courseCode": "CSE-323",
+      "courseTitle": "Management Information Systems",
+      "date": "Monday, October 07, 2024",
+      "time": "10:00 AM - 11:30 AM",
+      "room": "501"
+    },
+    {
+      "semester": "6th Semester",
+      "courseCode": "MAT-201",
+      "courseTitle": "Numerical Methods",
+      "date": "Wednesday, October 09, 2024",
+      "time": "10:00 AM - 11:30 AM",
+      "room": "501"
+    },
+    {
+      "semester": "7th Semester",
+      "courseCode": "CSE-413",
+      "courseTitle": "Web Engineering",
+      "date": "Thursday, September 26, 2024",
+      "time": "4:00 PM - 5:30 PM",
+      "room": "413"
+    },
+    {
+      "semester": "7th Semester",
+      "courseCode": "CSE-423",
+      "courseTitle": "Computer Graphics",
+      "date": "Monday, September 30, 2024",
+      "time": "10:00 AM - 11:30 AM",
+      "room": "501"
+    },
+    {
+      "semester": "7th Semester",
+      "courseCode": "CSE-331",
+      "courseTitle": "Operating System and System Programming",
+      "date": "Wednesday, October 02, 2024",
+      "time": "2:00 PM - 3:30 PM",
+      "room": "501"
+    },
+    {
+      "semester": "7th Semester",
+      "courseCode": "CSE-455",
+      "courseTitle": "Machine Learning",
+      "date": "Sunday, October 06, 2024",
+      "time": "4:00 PM - 5:30 PM",
+      "room": "501"
+    },
+    {
+      "semester": "7th Semester",
+      "courseCode": "CSE-425",
+      "courseTitle": "Cyber and Intellectual Property Law",
+      "date": "Tuesday, October 08, 2024",
+      "time": "4:00 PM - 5:30 PM",
+      "room": "501"
+    },
+    {
+      "semester": "8th & 9th Semester",
+      "courseCode": "CSE-423",
+      "courseTitle": "Computer Graphics",
+      "date": "Monday, September 30, 2024",
+      "time": "10:00 AM - 11:30 AM",
+      "room": "501"
+    },
+    {
+      "semester": "8th & 9th Semester",
+      "courseCode": "CSE-459",
+      "courseTitle": "Deep Learning",
+      "date": "Wednesday, October 02, 2024",
+      "time": "10:00 AM - 11:30 AM",
+      "room": "501"
+    },
+    {
+      "semester": "8th & 9th Semester",
+      "courseCode": "CSE-425",
+      "courseTitle": "Cyber and Intellectual Property Law",
+      "date": "Tuesday, October 08, 2024",
+      "time": "4:00 PM - 5:30 PM",
+      "room": "501"
+    }
+  ]
+}
