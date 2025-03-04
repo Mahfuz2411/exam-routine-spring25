@@ -166,7 +166,7 @@ export const exams: Exam[] = [
     courseTitle: "Numerical Analysis",
     date: "Wednesday, March 19, 2025",
     time: "10:00 AM - 11:30 AM",
-    room: "413",
+    room: "501",
   },
   {
     semester: "4th",
@@ -198,7 +198,7 @@ export const exams: Exam[] = [
     courseTitle: "Software Engineering and Design Patterns",
     date: "Sunday, March 16, 2025",
     time: "10:00 AM - 11:30 AM",
-    room: "413",
+    room: "501",
   },
   {
     semester: "5th",
