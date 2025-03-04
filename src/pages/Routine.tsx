@@ -22,7 +22,7 @@ const RoutinePage: React.FC = () => {
   return (
     <div className="p-4">
       <div className="mb-6">
-        <h1 className="text-2xl font-bold pb-6">Exam Routine Fall-2024</h1>
+        <h1 className="text-2xl font-bold pb-6">Exam Routine Spring-2025</h1>
 
         <div>
           <label htmlFor="semester" className="block text-lg mb-2">
