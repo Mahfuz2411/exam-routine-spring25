@@ -4,7 +4,7 @@ import { exams } from "../data";
 const RoutinePage: React.FC = () => {
   // State for selected semester
   const [selectedSemester, setSelectedSemester] = useState<string>("");
-
+  console.log(selectedSemester);
   // Handler for semester selection
   const handleSemesterChange = (
     event: React.ChangeEvent<HTMLSelectElement>
@@ -14,6 +14,8 @@ const RoutinePage: React.FC = () => {
 
   // Filter exams based on selected semester
   const filteredExams = exams.filter(
+    // console.log(selectedSemester);
+
     (exam) => exam.semester === selectedSemester
   );
 
@@ -33,14 +35,14 @@ const RoutinePage: React.FC = () => {
             className="p-2 border border-gray-300 rounded"
           >
             <option value="">-- Select Semester --</option>
-            <option value="1st Semester">1st Semester</option>
-            <option value="2nd Semester">2nd Semester</option>
-            <option value="3rd Semester">3rd Semester</option>
-            <option value="4th Semester">4th Semester</option>
-            <option value="5th Semester">5th Semester</option>
-            <option value="6th Semester">6th Semester</option>
-            <option value="7th Semester">7th Semester</option>
-            <option value="8th & 9th Semester">8th & 9th Semester</option>
+            <option value="1st">1st Semester</option>
+            <option value="2nd">2nd Semester</option>
+            <option value="3rd">3rd Semester</option>
+            <option value="4th">4th Semester</option>
+            <option value="5th">5th Semester</option>
+            <option value="6th">6th Semester</option>
+            <option value="7th">7th Semester</option>
+            <option value="8th">8th Semester</option>
           </select>
         </div>
       </div>
@@ -101,7 +103,6 @@ const RoutinePage: React.FC = () => {
       ) : (
         <p>Please select a semester to view exams.</p>
       )}
-
     </div>
   );
 };
